@@ -16,3 +16,4 @@ Future plans include, but are not limited to:
  - New features like comments with POST/GET requests and small redesigning
  - Google account authentication
  - User specific tokens
+ - Replace 'Service' cards with carousel
