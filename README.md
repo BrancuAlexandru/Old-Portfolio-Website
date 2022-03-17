@@ -8,6 +8,7 @@ Technologies used:
  - CSS
  - SCSS
  - JavaScript
+ - Firebase hosting
 
 Future plans include, but are not limited to:
  - Implementing Continuous Integration
