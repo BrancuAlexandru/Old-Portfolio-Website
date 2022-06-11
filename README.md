@@ -1,7 +1,6 @@
-# Portfolio-Website
-https://brancu-alexandru.web.app
+# Old-Portfolio-Website
 
-This is my portfolio website.
+This is my old portfolio website.
 
 Technologies used:
  - HTML
